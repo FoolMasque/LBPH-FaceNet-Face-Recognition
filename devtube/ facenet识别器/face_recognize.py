@@ -123,7 +123,7 @@ class face_recognize():
 if __name__ == "__main__":
 
     recognizer = face_recognize()
-    video_capture = cv2.VideoCapture(0)
+    video_capture = cv2.VideoCapture(1)
 
     while True:
         ret, draw = video_capture.read()
