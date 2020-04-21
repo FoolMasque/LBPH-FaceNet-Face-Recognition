@@ -117,7 +117,7 @@ class face_recognize():
             cv2.rectangle(draw, (left, top), (right, bottom), (0, 0, 255), 2)
             
             font = cv2.FONT_HERSHEY_SIMPLEX
-            cv2.putText(draw, name, (left , bottom - 15), font, 0.75, (255, 255, 255), 2) 
+            cv2.putText(draw, name, (left , top), font, 0.7, (255, 255, 255), 2) 
         return draw
 
 if __name__ == "__main__":
