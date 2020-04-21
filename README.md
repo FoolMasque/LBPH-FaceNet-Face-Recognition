@@ -12,9 +12,9 @@ Framework Tool
 
 Development Environment
 - Windows10
--CPU：i5-7200U
--RAM：8G DDR4 2400MHz
--Hard disk：SSD
+- CPU：i5-7200U
+- RAM：8G DDR4 2400MHz
+- Hard disk：SSD
 
 Development Language
 - Python
