@@ -1,5 +1,5 @@
 # LBPH-FaceNet-Face-Recognition
-A real time detection and recognition
+A real time face detection and recognition
 
 
 This code consists of two parts:one is HaarCascade+LBPH face detection and recognition,
