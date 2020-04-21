@@ -2,7 +2,7 @@
 A real time detection and recognition
 
 
-This code consists of two parts:one is HaarCascade+HBPH face detection and recognition,
+This code consists of two parts:one is HaarCascade+LBPH face detection and recognition,
 and another is MTCNN+FaceNet face detection and recognition.
 
 That is used in my undergraduate graduation design program.
